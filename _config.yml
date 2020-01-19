@@ -8,7 +8,7 @@ highlighter: pygments
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
-
+encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
