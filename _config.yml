@@ -36,8 +36,6 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 团队成员 People
-    link: /#people
   - title: 科研项目 Research
     link: /research.html
   - title: 论文 Publications

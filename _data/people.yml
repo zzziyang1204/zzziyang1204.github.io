@@ -38,9 +38,7 @@ alum-a:
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-collab-c:
-    display_name: "朱亮亮 Liangliang Zhu"
-    role: collab
+
 
 
 collab-a:
@@ -51,6 +49,9 @@ collab-b:
     display_name: "廖湘标 Xiangbiao Liao"
     role: collab
 
+collab-c:
+    display_name: "朱亮亮 Liangliang Zhu"
+    role: collab
 
 collab-d:
     display_name: "居佃兴 Dianxing Ju"
