@@ -1,4 +1,4 @@
-name: Awesome Research Group
+name: 肖航课题组  Xiao Research Group
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师
+    name: 教师 Faculty
   - key: grad
-    name: 研究生
+    name: 研究生 Graduate Students
   - key: ugrad
-    name: 本科生
+    name: 本科生 Undergraduate Students
   - key: collab
-    name: 合作者
+    name: 合作者 Collaborators
 
 
 # Number of news stories on the front page.
@@ -34,11 +34,11 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页
+  - title: 主页 Home
     link: /
-  - title: 团队成员
+  - title: 团队成员 People
     link: /#people
-  - title: 科研项目
+  - title: 科研项目 Research
     link: /research.html
-  - title: 论文
+  - title: 论文 Publications
     link: /publications.html
