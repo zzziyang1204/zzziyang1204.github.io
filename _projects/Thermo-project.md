@@ -1,13 +1,12 @@
 ---
-title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
+title: 高通量计算预测新型热电材料 Discovery of new Half-Heuslers thermoelectric materials with high-throughput screening
 
 notitle: false
 
 description: |
-  纳米水团簇中的离子水解反应研究 Hydrolysis of ions in nanoscale water clusters: a mechanism study
+  高通量计算预测新型热电材料 Discovery of new Half-Heuslers thermoelectric materials with high-throughput screening
 
 people:
-  - han
   - profx
 
 layout: project
@@ -17,5 +16,5 @@ last-updated: 2020-01-24
 
 ## 简介 Introduction
 
-纳米水团簇中的水解反应和自由水（bulk water）中的水解反应具有不同的特性。在这种机理的指导下，我们开发了基于湿度循环的CO2空气捕捉材料。现在我们仍在对这类反常水解反应进行系统的量子化学计算研究。
+借助高通量量子化学计算，我们开展了针对具有Half-Heuslers晶体结构的热电材料的预测研究。我们通过与Materials Project中的数据进行对比，计算出Energy above hull来判断新材料的热力学稳定性，以确保我们计算出的热电材料具有较好的可合成性。现在该项目正在研发中。
 

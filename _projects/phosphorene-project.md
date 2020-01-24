@@ -1,13 +1,12 @@
 ---
-title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
+title: 二维黑磷ReaxFF反应力场开发 Development of a reactive force field for phosphorene
 
 notitle: false
 
 description: |
-  纳米水团簇中的离子水解反应研究 Hydrolysis of ions in nanoscale water clusters: a mechanism study
+  二维黑磷ReaxFF反应力场开发 Development of a reactive force field for phosphorene
 
 people:
-  - han
   - profx
 
 layout: project
@@ -16,6 +15,6 @@ last-updated: 2020-01-24
 ---
 
 ## 简介 Introduction
+二维黑磷（Phosphorene）是一种从黑磷剥离出来的有序磷原子构成的、单原子层的、有直接带隙的二维半导体材料。磷烯在场效应晶体管、光电子器件、自旋电子学、气体传感器及太阳能电池等方面有着的广阔的应用前景。现存的黑磷力场（force field）存在精度低，无法描述缺陷（defects）等问题。针对这一痛点，我们开发了黑磷的ReaxFF反应力场，并且添加了60°修正项，实现了对黑磷，二维黑磷，二维蓝磷，磷原子团簇，黑磷缺陷等含磷体系的精确描述。为建立更普适的含磷材料反应力场奠定了基础。
 
-纳米水团簇中的水解反应和自由水（bulk water）中的水解反应具有不同的特性。在这种机理的指导下，我们开发了基于湿度循环的CO2空气捕捉材料。现在我们仍在对这类反常水解反应进行系统的量子化学计算研究。
 
