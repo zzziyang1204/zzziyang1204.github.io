@@ -24,12 +24,12 @@ wolverine:
     
     
 storm:
-    display_name: "虚位以待"
+    display_name: "虚位以待  We need you!"
     role: grad
     image: /img/people/need.png
 
 ugrad-a:
-    display_name: "朱津锌"
+    display_name: "朱津锌 Jingxin Zhu"
     role: ugrad
 
 
