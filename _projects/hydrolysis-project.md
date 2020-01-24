@@ -11,7 +11,7 @@ people:
   - profx
 
 layout: project
-image: /img/people/hydrolysis.png
+image: /img/projects/hydrolysis.png
 last-updated: 2020-01-24
 ---
 

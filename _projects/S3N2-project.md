@@ -11,7 +11,7 @@ people:
   - profx
 
 layout: project
-image: /img/people/S3N2.png
+image: /img/projects/S3N2.png
 last-updated: 2020-01-24
 ---
 
