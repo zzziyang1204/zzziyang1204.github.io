@@ -12,7 +12,7 @@ people:
   - yayun
   - juzheng
   - profx
- - chenxi
+  - chenxi
 
 layout: project
 image: /img/projects/hydrolysis.png
