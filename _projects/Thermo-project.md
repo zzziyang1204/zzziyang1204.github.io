@@ -4,9 +4,9 @@ title: 高通量计算预测新型热电材料 Discovery of new Half-Heuslers th
 notitle: false
 
 description: |
-  高通量计算预测新型热电材料 Discovery of new Half-Heuslers thermoelectric materials with high-throughput screening
 
 people:
+  - chenyan
   - profx
 
 layout: project

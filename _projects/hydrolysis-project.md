@@ -8,6 +8,9 @@ description: |
 
 people:
   - han
+  - xiaoyang
+  - yayun
+  - juzheng
   - profx
 
 layout: project

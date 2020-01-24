@@ -4,9 +4,9 @@ title: 二维黑磷ReaxFF反应力场开发 Development of a reactive force fiel
 notitle: false
 
 description: |
-  二维黑磷ReaxFF反应力场开发 Development of a reactive force field for phosphorene
 
 people:
+  - xiaoyang
   - profx
 
 layout: project
