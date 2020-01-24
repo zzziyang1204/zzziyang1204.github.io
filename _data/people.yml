@@ -2,7 +2,7 @@
 
 
 profx:
-    display_name: "肖航"
+    display_name: "肖航  Hang Xiao"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: xiaohang007
     role: faculty
@@ -21,125 +21,43 @@ wolverine:
     github: wolverine
     role: postdoc
 
+    
+    
 storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    display_name: "虚位以待"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/need.png
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+ugrad-a:
+    display_name: "朱津锌"
+    role: ugrad
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
 
 alum-a:
     display_name: "Alum A"
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
+collab-c:
+    display_name: "朱亮亮 Liangliang Zhu"
+    role: collab
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
 
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "时笑阳 Xiaoyang Shi"
     role: collab
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "廖湘标 Xiangbiao Liao"
     role: collab
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
 
 collab-d:
-    display_name: "Collaborator D"
+    display_name: "居佃兴 Dianxing Ju"
     role: collab
 
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
 
 ugrad-alum-a:
     display_name: "Past Ugrad A"
