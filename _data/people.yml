@@ -43,7 +43,10 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-
+chenxi:
+    display_name: "陈曦 Xi Chen"
+    role: collab
+    bio: 副教授  Associate Professor
 
 xiaoyang:
     display_name: "时笑阳 Xiaoyang Shi"
