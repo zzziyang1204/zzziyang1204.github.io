@@ -7,6 +7,7 @@ description: |
 
 people:
   - xiaoyang
+  - xiangbiao
   - profx
 
 layout: project
