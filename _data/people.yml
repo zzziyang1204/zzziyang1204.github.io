@@ -1,27 +1,16 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
 
 profx:
-    display_name: "Professor X"
+    display_name: "肖航"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+    github: xiaohang007
     role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+    image: /img/people/hang.jpg
+    bio: 副教授  Associate Professor
 
 scott:
     display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
     image: /img/people/scott.png
     bio: aka Cyclops
