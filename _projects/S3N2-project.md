@@ -13,7 +13,7 @@ people:
 
 layout: project
 image: /img/projects/2d.png
-last-updated: 2020-01-24
+last-updated: 2020-01-22
 ---
 
 ## 简介 Introduction
