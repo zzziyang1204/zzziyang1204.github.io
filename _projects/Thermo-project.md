@@ -8,6 +8,7 @@ description: |
 people:
   - chenyan
   - profx
+  - chenxi
 
 layout: project
 image: /img/projects/Thermo.png

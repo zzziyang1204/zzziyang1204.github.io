@@ -9,6 +9,7 @@ people:
   - xiaoyang
   - xiangbiao
   - profx
+  - chenxi
 
 layout: project
 image: /img/projects/phosphorene.png
