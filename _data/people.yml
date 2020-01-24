@@ -23,6 +23,12 @@ wolverine:
 
     
     
+
+han:
+    display_name: "韩莹莹 Yingying Han (合作导师 co-advisor)"
+    role: grad
+    image: /img/people/need.png
+    
 storm:
     display_name: "虚位以待  We need you!"
     role: grad
