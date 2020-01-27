@@ -12,7 +12,7 @@ people:
 
 layout: project
 image: /img/projects/Thermo.png
-last-updated: 2020-01-24
+last-updated: 2020-01-25
 ---
 
 ## 简介 Introduction
