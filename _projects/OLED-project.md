@@ -6,7 +6,6 @@ notitle: false
 description: |
 
 people:
-  - liangliang
   - profx
   - chenxi
 
