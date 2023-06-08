@@ -12,7 +12,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/Thermo.png
+image: /img/projects/slices.png
 last-updated: 2023-06-8
 ---
 
