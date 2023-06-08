@@ -13,7 +13,7 @@ people:
 
 layout: project
 image: /img/projects/slices.png
-last-updated: 2023-06-8
+last-updated: 2023-06-08
 ---
 
 ## 简介 Introduction
