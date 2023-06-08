@@ -27,10 +27,12 @@ wolverine:
 rong:
     display_name: "李荣 Rong Li"
     role: grad
+    image: /img/people/rong.jpg
     
 bizhu:
     display_name: "张碧竹 Bizhu Zhang"
     role: grad
+    image: /img/people/bizhu.jpg
 
 storm:
     display_name: "虚位以待  We need you!"
