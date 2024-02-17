@@ -6,8 +6,8 @@ profx:
     github: xiaohang007
     role: faculty
     image: /img/people/hang.jpg
-    bio: 副教授  Associate Professor
-    webpage: "https://faculty.nwu.edu.cn/HangXiao/zh_CN/index.htm"
+    bio: 助理教授  Assistant Professor
+    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
     display_name: "Scott Summers"
@@ -33,6 +33,11 @@ bizhu:
     display_name: "张碧竹 Bizhu Zhang"
     role: grad
     image: /img/people/bizhu.jpg
+
+kedeng:
+    display_name: "吴克登 Kedeng Wu"
+    role: grad
+    image: /img/people/kedeng.jpg
 
 storm:
     display_name: "虚位以待  We need you!"
