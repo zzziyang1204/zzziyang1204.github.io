@@ -1,26 +1,86 @@
----
-layout: default
-title: Home
-notitle: true
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>肖航课题组  Xiao Research Group: Home</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/" class="">
+                    <img src="/img/logo.png" style="width:100%"
+                         srcset="/img/logo@2x.png 2x"
+                         alt="Awesome" id="logo">
+                </a>
+                <ul class="nav nav-pills justify-content-center">
 
-# groups of columns of {roles: list, width: num, image: bool}
-role-tables:
-- - roles: [faculty, postdoc, staff]
-    width: 4
-    image: true
-  - roles: [grad]
-    width: 8
-    image: true
-- - roles: [collab, ugrad, ugrad-alum]
-    width: 5
-    image: false
-  - roles: [alum]
-    width: 7
-    image: false
+                    
+                    
 
----
+                        
 
-<div class="jumbotron">
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link active"
+                               href="/">
+                                主页 Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/research.html">
+                                科研项目 Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/publications.html">
+                                论文 Publications
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+
+            
+
+            <div class="jumbotron">
     <p>
         <b>肖航课题组</b>开发了首个<b>基于字符串的可逆晶体表示法: SLICES</b>,实现了生成式AI驱动的<b>Text2Crystal</b>。SLICES有望成为AI驱动的晶体材料逆向设计的标准工具,即<b>晶体材料的"SMILES"</b>。 
     </p>
@@ -36,31 +96,742 @@ role-tables:
 <section>
     <h2>News</h2>
     <ul class="news list-unstyled">
-        {% for post in site.posts limit: site.front_page_news %}
-            {% include news-item.html item=post %}
-        {% endfor %}
+        
+            
+
+
+
+
+
+
+
+<li class="shortnews">
+    
+        
+<span class="fa fa-fw fa-newspaper-o"></span>
+<span class="date">January 25, 2020</span>
+
+        
+    <div>
+        
+            课题组热诚欢迎化工、化学、材料、力学、物理等背景的学生加入，开展硕士学习研究！
+
+
+        
+    </div>
+
+    
+</li>
+
+        
     </ul>
-    {% assign numposts = site.posts | size %}
-    {% if numposts >= 1 %}
+    
+    
         <p>
             <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+            <a href="/blog.html">Older posts&hellip;</a>
         </p>
-    {% endif %}
+    
 </section>
 
 
 <div id="people">
     <h2>People</h2>
-    {% for role-table in page.role-tables %}
+    
         <section class="people row justify-content-between">
-            {% for role-column in role-table %}
-                <div class="col-md-{{ role-column.width }}">
-                    {% for role in role-column.roles %}
-                        {% include role-people.html role=role image=role-column.image %}
-                    {% endfor %}
+            
+                <div class="col-md-4">
+                    
+                        
+
+
+
+    
+        <h3 class="pt-3"> 教师 Faculty </h3>
+        <div class="role faculty">
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://scholars.ln.edu.hk/en/persons/hang-xiao"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="肖航  Hang Xiao"
+             title="肖航  Hang Xiao"
+             src="/img/people/hang.jpg" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://scholars.ln.edu.hk/en/persons/hang-xiao"> 肖航  Hang Xiao </a>
+     </h6>
+            
+                <div class="bio">助理教授  Assistant Professor</div>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+        </div>
+    
+
+    
+
+    
+
+    
+
+
+                    
+                        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+                    
+                        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+                    
                 </div>
-            {% endfor %}
+            
+                <div class="col-md-8">
+                    
+                        
+
+
+
+    
+
+    
+        <h3 class="pt-3"> 研究生 Graduate Students </h3>
+        <div class="role grad">
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="李荣 Rong Li"
+             title="李荣 Rong Li"
+             src="/img/people/rong.jpg" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 李荣 Rong Li </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="张碧竹 Bizhu Zhang"
+             title="张碧竹 Bizhu Zhang"
+             src="/img/people/bizhu.jpg" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 张碧竹 Bizhu Zhang </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="吴克登 Kedeng Wu"
+             title="吴克登 Kedeng Wu"
+             src="/img/people/kedeng.jpg" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 吴克登 Kedeng Wu </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile"
+             alt="虚位以待  We need you!"
+             title="虚位以待  We need you!"
+             src="/img/people/need.png" />
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 虚位以待  We need you! </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+        </div>
+    
+
+    
+
+    
+
+
+                    
+                </div>
+            
         </section>
-    {% endfor %}
+    
+        <section class="people row justify-content-between">
+            
+                <div class="col-md-5">
+                    
+                        
+
+
+
+    
+
+    
+
+    
+
+    
+        <h3 class="pt-3"> 合作者 Collaborators </h3>
+        <div class="role collab">
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        陈曦 [导师] Xi Chen [Advisor] 
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        时笑阳 Xiaoyang Shi
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        廖湘标 Xiangbiao Liao
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        朱亮亮 Liangliang Zhu
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        陈炎 Yan Chen
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        宋居正 Juzheng Song
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        张亚运 Yayun Zhang
+        
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-without-image">
+        居佃兴 Dianxing Ju
+        
+    </div>
+
+
+                
+            
+                
+                
+            
+                
+                
+            
+        </div>
+    
+
+
+                    
+                        
+
+
+
+    
+
+    
+
+    
+        <h3 class="pt-3"> 本科生 Undergraduate Students </h3>
+        <div class="role ugrad">
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+        </div>
+    
+
+    
+
+
+                    
+                        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+                    
+                </div>
+            
+                <div class="col-md-7">
+                    
+                        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+                    
+                </div>
+            
+        </section>
+    
 </div>
+
+
+            <div class="footer">
+                <p>
+                    <a href="https://www.ln.edu.hk/sis">跨学科学院 School of Interdisciplinary Studies</a>
+                    -
+                    <a href="https://www.ln.edu.hk/chs">岭南大学 </a>
+                    <a href="https://www.ln.edu.hk/"> Lingnan University</a>
+                    -
+                    <a href = "mailto: hangxiao@ln.edu.hk">hangxiao@ln.edu.hk</a>
+                </p>
+
+
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/js/srcset-polyfill.js"></script>
+    </body>
+</html>
