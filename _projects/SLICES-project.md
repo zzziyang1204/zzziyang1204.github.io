@@ -14,7 +14,7 @@ people:
 layout: project
 image: /img/projects/slices.png
 last-updated: 2023-06-08
-link: https://chemrxiv.org/engage/chemrxiv/article-details/64697e40a32ceeff2df995c0
+link: https://www.nature.com/articles/s41467-023-42870-7
 ---
 
 ## 简介 Introduction
