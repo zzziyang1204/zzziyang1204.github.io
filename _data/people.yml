@@ -1,13 +1,11 @@
 
 
 
-profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
-    role: faculty
+Me:
+    display_name: "张子阳  Ziyang Zhang"
+    github: zzziyangzhang1204
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+ 
 
 scott:
     display_name: "Scott Summers"
@@ -26,15 +24,10 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
-    role: grad
+ruirui:
+    display_name: "李睿蕊 Ruirui Li"
+    role: friend
     image: /img/people/bizhu.jpg
-
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
-    role: grad
-    image: /img/people/kedeng.jpg
 
 storm:
     display_name: "虚位以待  We need you!"
