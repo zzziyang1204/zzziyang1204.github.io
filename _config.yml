@@ -27,6 +27,18 @@ front_page_news: 8
 # Base pathname for links.
 base: ''
 
+<div class="jumbotron text-center">
+    <h1>欢迎来到张子阳的空间！</h1>
+    <p>
+        在这个温馨的小天地里，我热爱探索和分享各种可爱的事物！🌟 
+        从小动物到美丽的星空，我相信每个小细节都能带来快乐与灵感！ 
+    </p>
+    <p>
+        这里有我的创意和项目，让我们一起享受这段美好的旅程吧！🎉 
+        希望你能在这里找到属于自己的小乐趣！❤️ 
+    </p>
+</div>
+
 # Make pages for the _projects folder
 collections:
   projects:
